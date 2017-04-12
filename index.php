@@ -19,6 +19,7 @@
 			<p>To admit that you're afraid gives you strength.</p>
 			<p>You are given time to choose the path. If you wait too long the path will choose you. - Emily 4.12.2017</p>
 <img src="images/nebula.jpg" alt="universe"/>
+			<p>This is a link to Emily's favorite site: <a href="http://emilyhalleran.com" target="_blank">Site</a> </p>
 		</main>
 	</body>
 </html>
