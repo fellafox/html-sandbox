@@ -9,3 +9,7 @@ img {
 	width: 30%;
 	height: auto;
 }
+
+table, th, td {
+	border: 2px solid;
+}
