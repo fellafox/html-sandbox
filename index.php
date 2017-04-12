@@ -21,6 +21,45 @@
 <img src="images/nebula.jpg" alt="universe"/>
 			<p>This is a link to Emily's favorite site: <a href="http://emilyhalleran.com" target="_blank">Site</a> </p>
 			<p>This is a link to an internal page <a href="about/index.php">About</a> </p>
+
+			<h2>A few of my favorite things</h2>
+			<ul>
+				<li>Tacos</li>
+				<li>Kittens</li>
+				<li>Horror Movies</li>
+				<li>Riker</li>
+			</ul>
+
+			<h2>A few of Sebastians favorite things:</h2>
+			<ol>
+				<li>Spiderman</li>
+				<li>Albuquerque</li>
+				<li>Trolls</li>
+			</ol>
+
+			<h2>Cats &amp; Dogs</h2>
+			<table>
+				<tr>
+					<th>Cats</th>
+					<th>Dogs</th>
+				</tr>
+				<tr>
+					<td>Tabby</td>
+					<td>Bulldog</td>
+				</tr>
+				<tr>
+					<td>Persian</td>
+					<td>Beagle</td>
+				</tr>
+				<tr>
+					<td>Senator</td>
+					<td>Janitor</td>
+				</tr>
+				<tr>
+					<td>Grumpy</td>
+					<td>Happy</td>
+				</tr>
+			</table>
 		</main>
 	</body>
 </html>
