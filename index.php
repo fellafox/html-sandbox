@@ -20,6 +20,7 @@
 			<p>You are given time to choose the path. If you wait too long the path will choose you. - Emily 4.12.2017</p>
 <img src="images/nebula.jpg" alt="universe"/>
 			<p>This is a link to Emily's favorite site: <a href="http://emilyhalleran.com" target="_blank">Site</a> </p>
+			<p>This is a link to an internal page <a href="about/index.php"></a> </p>
 		</main>
 	</body>
 </html>
