@@ -10,6 +10,12 @@
 		<title>HTML SANDBOX!</title>
 	</head>
 	<body>
-<h1> hello! </h1>
+		<header>
+			<h1>HTML SANDBOX</h1>
+		</header>
+		<main>
+			<h2>Deanna Troi says:</h2>
+			<p>Sharing an orbit with God is no small experience</p>
+		</main>
 	</body>
 </html>
