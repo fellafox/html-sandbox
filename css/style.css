@@ -4,3 +4,8 @@ body
 background-color: powderblue;
 	color: cadetblue;
 }
+
+img {
+	width: 70%;
+	height: auto;
+}
