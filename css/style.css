@@ -13,3 +13,7 @@ img {
 table, th, td {
 	border: 2px solid;
 }
+
+p {
+	font-family: "Brush Script Std";
+}
